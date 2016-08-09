@@ -1,0 +1,40 @@
+/****
+number of days convert into months and days
+***/
+import java.util.Scanner;
+
+
+public class p3 {
+	
+							public static void main(String args[])
+							{
+									Scanner input = new Scanner(System.in);
+									int days;
+									System.out.println("enter any number :  ");
+							}
+						public static void convertdaysintomonthsanddays(int days) {
+							int jan = 31; 
+							int feb = 28;
+							int march = 31;
+							int april = 30;
+							int may = 31;
+							int june = 30;
+							int july = 31;
+							int aug = 31;
+							int sep = 30;
+							int oct = 31;
+							int nov = 30;
+							int dec = 31;
+							if(jan > days)
+								
+						}
+				}
+	
+	
+		
+	
+ 
+
+
+
+	
